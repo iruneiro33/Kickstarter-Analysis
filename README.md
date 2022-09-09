@@ -1,11 +1,10 @@
 ## Kickstarter-Analysis
 
-Overview 
-Background
+### Overview 
 Louise is planning to launch her play "Fever" by raising funds with crowdfunding on "Kickstarter" platform.
 "Fever" project reached close to its goal in a short amount of time.
 
-Purpose
+### Purpose
 This analysis is conducted to explore how the launch dates and goal amounts relate to funding outcomes by using the data of "Kickstarter" previous campaigns so Louise understands the trend and gets insight into how successful her project can be.
 The analysis focuses only on the Parent category "Theaters" or the subcategory "plays" as Louise's campaign is for her play. The data includes 4114 campaigns launched from 2009 to 2017.
 
@@ -30,7 +29,7 @@ Even though we can see general trends in the graphs, we don't necessarily know w
 It can be simply because of the people's behavior (For example, people typically have more dispensable money during the summer as they don't have to spend on Christmas gifts) or because Kickstarter probably publishes a big advertisement to boost the number of users in May. It is quite critical to know the reason behind what we see in the data so we make good decisions.
 Results
 
-##Conclusion
+### Conclusion
 
 *They should launch the campaign in May or close to May and
 *Avoid launching the campaign in December Regarding the goal amount,
